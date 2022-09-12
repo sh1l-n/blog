@@ -1,0 +1,5 @@
+baseURL = 'https://sh1l-n.github.io/'
+languageCode = 'en-us'
+title = 'My simple Blog'
+theme = 'PaperMod'
+
